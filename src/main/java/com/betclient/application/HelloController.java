@@ -13,6 +13,6 @@ public class HelloController {
 
     @GetMapping("/test")
     public String test() {
-        return "TEST: Yo Yo Greetings from Spring Boot!";
+        return "TEST: ObliDi ObliDa Yo Yo Greetings from Spring Boot!";
     }
 }
